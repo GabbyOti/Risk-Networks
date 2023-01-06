@@ -1,0 +1,133 @@
+ID Place of Birth,Place of Birth,ID Age,Age,ID Year,Year,Birthplace,Birthplace Moe,Geography,ID Geography,Slug Geography,nativity,share
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",24,"62 to 64 Years",6054,"2018",57154,5272,"King County, WA","05000US53033","king-county-wa","Native Born",0.02559329524983174
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",0,"Under 5 Years",6054,"2018",123936,6359,"King County, WA","05000US53033","king-county-wa","Native Born",0.055497964098455865
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",3,"5 to 17 Years",6054,"2018",296869,14392,"King County, WA","05000US53033","king-county-wa","Native Born",0.13293655680306363
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",6,"18 to 24 Years",6054,"2018",144287,9363,"King County, WA","05000US53033","king-county-wa","Native Born",0.06461104720076412
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",9,"25 to 34 Years",6054,"2018",288153,12760,"King County, WA","05000US53033","king-county-wa","Native Born",0.1290335725605341
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",12,"35 to 44 Years",6054,"2018",219380,10718,"King County, WA","05000US53033","king-county-wa","Native Born",0.09823734317647212
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",15,"45 to 54 Years",6054,"2018",202689,9699,"King County, WA","05000US53033","king-county-wa","Native Born",0.09076319104337659
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",18,"55 to 59 Years",6054,"2018",106592,8107,"King County, WA","05000US53033","king-county-wa","Native Born",0.04773140160391337
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",30,"75 Years & Over",6054,"2018",90474,5322,"King County, WA","05000US53033","king-county-wa","Native Born",0.040513836204522466
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",21,"60 & 61 Years",6054,"2018",39366,4488,"King County, WA","05000US53033","king-county-wa","Native Born",0.01762791162131918
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",27,"65 to 74 Years",6054,"2018",140177,6780,"King County, WA","05000US53033","king-county-wa","Native Born",0.06277060832550065
+3,"Foreign Born",10,"75 Years & Over",2018,"2018",26990,1567,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.012085996409576909
+3,"Foreign Born",8,"62 to 64 Years",2018,"2018",15690,1723,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.007025908990969311
+3,"Foreign Born",7,"60 & 61 Years",2018,"2018",13669,2185,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.006120914595128076
+3,"Foreign Born",6,"55 to 59 Years",2018,"2018",33261,2457,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.014894121029230737
+3,"Foreign Born",5,"45 to 54 Years",2018,"2018",90849,3430.0000000000005,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04068175945956475
+3,"Foreign Born",4,"35 to 44 Years",2018,"2018",115621,4436,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.05177454578998488
+3,"Foreign Born",3,"25 to 34 Years",2018,"2018",121950,5902,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.054608642539751916
+3,"Foreign Born",2,"18 to 24 Years",2018,"2018",36751,2983,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01645692678949096
+3,"Foreign Born",1,"5 to 17 Years",2018,"2018",26611,3463,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.011916281973147504
+3,"Foreign Born",0,"Under 5 Years",2018,"2018",5444,1299,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0024377978678672358
+3,"Foreign Born",9,"65 to 74 Years",2018,"2018",37250,2539,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.016680376667533896
+3,"Foreign Born",7,"60 & 61 Years",2017,"2017",11713,1805,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.00535170326534771
+3,"Foreign Born",3,"25 to 34 Years",2017,"2017",112694,4998,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.05149021154145777
+3,"Foreign Born",2,"18 to 24 Years",2017,"2017",35536,3789.0000000000005,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.016236500233705816
+3,"Foreign Born",8,"62 to 64 Years",2017,"2017",16064,1830.9999999999998,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.00733968763378687
+3,"Foreign Born",6,"55 to 59 Years",2017,"2017",32681,2549,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.014932042552277683
+3,"Foreign Born",1,"5 to 17 Years",2017,"2017",32976,3792.9999999999995,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.015066828897644163
+3,"Foreign Born",5,"45 to 54 Years",2017,"2017",88305,3563,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04034680755114228
+3,"Foreign Born",0,"Under 5 Years",2017,"2017",6052,1283,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0027651761429082506
+3,"Foreign Born",10,"75 Years & Over",2017,"2017",26706,2063,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.012202047930024412
+3,"Foreign Born",9,"65 to 74 Years",2017,"2017",35638,2659,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.016283104326002024
+3,"Foreign Born",4,"35 to 44 Years",2017,"2017",117554,4572,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.05371075946851231
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",24,"62 to 64 Years",6051,"2017",62135,6403,"King County, WA","05000US53033","king-county-wa","Native Born",0.028389659557105776
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",12,"35 to 44 Years",6051,"2017",209193,10257,"King County, WA","05000US53033","king-county-wa","Native Born",0.09558088117372864
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",21,"60 & 61 Years",6051,"2017",39705,4606,"King County, WA","05000US53033","king-county-wa","Native Born",0.018141328280596843
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",27,"65 to 74 Years",6051,"2017",135707,6872,"King County, WA","05000US53033","king-county-wa","Native Born",0.06200491718864012
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",0,"Under 5 Years",6051,"2017",122856,5233,"King County, WA","05000US53033","king-county-wa","Native Born",0.05613325846218375
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",18,"55 to 59 Years",6051,"2017",102638,7195,"King County, WA","05000US53033","king-county-wa","Native Born",0.046895596324490585
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",6,"18 to 24 Years",6051,"2017",143025,8975,"King County, WA","05000US53033","king-county-wa","Native Born",0.0653485323594601
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",30,"75 Years & Over",6051,"2017",85907,5548,"King County, WA","05000US53033","king-county-wa","Native Born",0.03925115447931578
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",15,"45 to 54 Years",6051,"2017",208052,8856,"King County, WA","05000US53033","king-county-wa","Native Born",0.09505955500402304
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",9,"25 to 34 Years",6051,"2017",278048,12795,"King County, WA","05000US53033","king-county-wa","Native Born",0.12704092798799624
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",3,"5 to 17 Years",6051,"2017",285464,11613,"King County, WA","05000US53033","king-county-wa","Native Born",0.13042931963964985
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",18,"55 to 59 Years",6048,"2016",104061,7022,"King County, WA","05000US53033","king-county-wa","Native Born",0.04840114048102997
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",21,"60 & 61 Years",6048,"2016",41833,4155,"King County, WA","05000US53033","king-county-wa","Native Born",0.019457480802057704
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",15,"45 to 54 Years",6048,"2016",214387,9203,"King County, WA","05000US53033","king-county-wa","Native Born",0.0997162751108155
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",0,"Under 5 Years",6048,"2016",124284,5127,"King County, WA","05000US53033","king-county-wa","Native Born",0.057807318241649884
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",24,"62 to 64 Years",6048,"2016",60801,5763,"King County, WA","05000US53033","king-county-wa","Native Born",0.028279929487388195
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",3,"5 to 17 Years",6048,"2016",281692,12650,"King County, WA","05000US53033","king-county-wa","Native Born",0.13102136308878728
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",27,"65 to 74 Years",6048,"2016",129123,6148,"King County, WA","05000US53033","king-county-wa","Native Born",0.060058047321590535
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",12,"35 to 44 Years",6048,"2016",208877,10415,"King County, WA","05000US53033","king-county-wa","Native Born",0.0971534486527719
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",30,"75 Years & Over",6048,"2016",84415,5325,"King County, WA","05000US53033","king-county-wa","Native Born",0.03926333855821244
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",9,"25 to 34 Years",6048,"2016",267774,13026,"King County, WA","05000US53033","king-county-wa","Native Born",0.12454778438768913
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",6,"18 to 24 Years",6048,"2016",144811,10163,"King County, WA","05000US53033","king-county-wa","Native Born",0.06735489332409289
+3,"Foreign Born",10,"75 Years & Over",2016,"2016",25058,1766,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.011655046349483946
+3,"Foreign Born",9,"65 to 74 Years",2016,"2016",34536,2284,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.016063479955534265
+3,"Foreign Born",8,"62 to 64 Years",2016,"2016",14472,1863.9999999999998,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0067312567152099795
+3,"Foreign Born",7,"60 & 61 Years",2016,"2016",11649,1509,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.005418215137885645
+3,"Foreign Born",6,"55 to 59 Years",2016,"2016",29930,2430,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013921124480806709
+3,"Foreign Born",5,"45 to 54 Years",2016,"2016",82542,3382,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.038392163611585275
+3,"Foreign Born",4,"35 to 44 Years",2016,"2016",107414,4066,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04996069712600641
+3,"Foreign Born",3,"25 to 34 Years",2016,"2016",109170,4415,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.050777452708642444
+3,"Foreign Born",2,"18 to 24 Years",2016,"2016",35491,3877,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01650767220007721
+3,"Foreign Born",1,"5 to 17 Years",2016,"2016",32623,3860.0000000000005,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.015173700098140903
+3,"Foreign Born",0,"Under 5 Years",2016,"2016",5027,1398,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.002338172160541775
+3,"Foreign Born",4,"35 to 44 Years",2015,"2015",106063,4588,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.05009765601936589
+3,"Foreign Born",0,"Under 5 Years",2015,"2015",5260,1431,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0024845013874948336
+3,"Foreign Born",1,"5 to 17 Years",2015,"2015",25086,3367,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.011849087795949696
+3,"Foreign Born",2,"18 to 24 Years",2015,"2015",37593,3061,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.017756627501918875
+3,"Foreign Born",3,"25 to 34 Years",2015,"2015",101287,4251,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04784176654661392
+3,"Foreign Born",5,"45 to 54 Years",2015,"2015",78015,2767,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.03684950109228317
+3,"Foreign Born",6,"55 to 59 Years",2015,"2015",28969,2720,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013683178839227726
+3,"Foreign Born",7,"60 & 61 Years",2015,"2015",9541,1510,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.004506583220168861
+3,"Foreign Born",8,"62 to 64 Years",2015,"2015",13842,2002,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.006538111826179371
+3,"Foreign Born",9,"65 to 74 Years",2015,"2015",28945,1682,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013671842711223948
+3,"Foreign Born",10,"75 Years & Over",2015,"2015",24040,1947,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.011355021550451674
+3,"Born In Other State In The United States,Native; Born Outside The United States,Born In State of Residence",21,"60 & 61 Years",6045,"2015",41667,4532,"King County, WA","05000US53033","king-county-wa","Native Born",0.01968093523056031
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",27,"65 to 74 Years",6045,"2015",127228,5585,"King County, WA","05000US53033","king-county-wa","Native Born",0.060094703902698235
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",24,"62 to 64 Years",6045,"2015",55741,5661,"King County, WA","05000US53033","king-county-wa","Native Born",0.026328629627442878
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",30,"75 Years & Over",6045,"2015",83813,5132,"King County, WA","05000US53033","king-county-wa","Native Born",0.03958812068252937
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",18,"55 to 59 Years",6045,"2015",109907,6679,"King County, WA","05000US53033","king-county-wa","Native Born",0.051913325854637773
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",15,"45 to 54 Years",6045,"2015",216874,9718,"King County, WA","05000US53033","king-county-wa","Native Born",0.10243797602881266
+3,"Born In Other State In The United States,Native; Born Outside The United States,Born In State of Residence",0,"Under 5 Years",6045,"2015",123482,6093,"King County, WA","05000US53033","king-county-wa","Native Born",0.058325323256775106
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",12,"35 to 44 Years",6045,"2015",207118,9074,"King County, WA","05000US53033","king-county-wa","Native Born",0.09782983999527661
+3,"Born In Other State In The United States,Native; Born Outside The United States,Born In State of Residence",3,"5 to 17 Years",6045,"2015",284745,10551,"King County, WA","05000US53033","king-county-wa","Native Born",0.13449607368483202
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",9,"25 to 34 Years",6045,"2015",265441,12904,"King County, WA","05000US53033","king-county-wa","Native Born",0.12537804806045935
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",6,"18 to 24 Years",6045,"2015",142468,10388,"King County, WA","05000US53033","king-county-wa","Native Born",0.06729314518509771
+3,"Foreign Born",2,"18 to 24 Years",2014,"2014",34555,3585.9999999999995,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01661324434474201
+3,"Foreign Born",3,"25 to 34 Years",2014,"2014",98173,4913,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04719930652745933
+3,"Foreign Born",4,"35 to 44 Years",2014,"2014",101811,4044,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04894837273860595
+3,"Foreign Born",5,"45 to 54 Years",2014,"2014",71720,2954,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.034481316290114215
+3,"Foreign Born",6,"55 to 59 Years",2014,"2014",27925,2210,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013425693773026206
+3,"Foreign Born",7,"60 & 61 Years",2014,"2014",8925,1435,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.004290933461925117
+3,"Foreign Born",0,"Under 5 Years",2014,"2014",5054,1043,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0024298462427528897
+3,"Foreign Born",8,"62 to 64 Years",2014,"2014",14153,1625,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.006804434878053354
+3,"Foreign Born",9,"65 to 74 Years",2014,"2014",30916,1942,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01486369735673691
+3,"Foreign Born",1,"5 to 17 Years",2014,"2014",25002,2979,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.012020383015692075
+3,"Foreign Born",10,"75 Years & Over",2014,"2014",22737,1801.0000000000002,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01093142343123713
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",9,"25 to 34 Years",6042,"2014",255345,12004,"King County, WA","05000US53033","king-county-wa","Native Born",0.12276396692832146
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",0,"Under 5 Years",6042,"2014",123253,5169,"King County, WA","05000US53033","king-county-wa","Native Born",0.059257190138112766
+3,"Born In Other State In The United States,Native; Born Outside The United States,Born In State of Residence",30,"75 Years & Over",6042,"2014",82979,5164,"King County, WA","05000US53033","king-county-wa","Native Born",0.039894382939729335
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",24,"62 to 64 Years",6042,"2014",54413,4781,"King County, WA","05000US53033","king-county-wa","Native Born",0.026160511200418082
+3,"Born In Other State In The United States,Native; Born Outside The United States,Born In State of Residence",3,"5 to 17 Years",6042,"2014",282659,10643,"King County, WA","05000US53033","king-county-wa","Native Born",0.135895906040817
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",15,"45 to 54 Years",6042,"2014",219837,9173,"King County, WA","05000US53033","king-county-wa","Native Born",0.10569254223744896
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",12,"35 to 44 Years",6042,"2014",207926,9865,"King County, WA","05000US53033","king-county-wa","Native Born",0.09996600907610553
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",27,"65 to 74 Years",6042,"2014",116699,6388,"King County, WA","05000US53033","king-county-wa","Native Born",0.056106178607641374
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",6,"18 to 24 Years",6042,"2014",146299,8651,"King County, WA","05000US53033","king-county-wa","Native Born",0.07033717361861991
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",21,"60 & 61 Years",6042,"2014",40815,4448,"King County, WA","05000US53033","king-county-wa","Native Born",0.01962290747882058
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",18,"55 to 59 Years",6042,"2014",108771,7491,"King County, WA","05000US53033","king-county-wa","Native Born",0.05229457967361982
+3,"Born In State of Residence,Born In Other State In The United States,Native; Born Outside The United States",6,"18 to 24 Years",6039,"2013",142974,9388,"King County, WA","05000US53033","king-county-wa","Native Born",0.06993277895413386
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",21,"60 & 61 Years",6039,"2013",42225,4960,"King County, WA","05000US53033","king-county-wa","Native Born",0.02065348658733967
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",27,"65 to 74 Years",6039,"2013",111632,5088,"King County, WA","05000US53033","king-county-wa","Native Born",0.05460248702706695
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",12,"35 to 44 Years",6039,"2013",208248,9919,"King County, WA","05000US53033","king-county-wa","Native Born",0.10186020781149346
+3,"Born In State of Residence,Native; Born Outside The United States,Born In Other State In The United States",18,"55 to 59 Years",6039,"2013",107823,7459,"King County, WA","05000US53033","king-county-wa","Native Born",0.052739393352438727
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",30,"75 Years & Over",6039,"2013",82527,5401,"King County, WA","05000US53033","king-county-wa","Native Born",0.04036637744448504
+3,"Native; Born Outside The United States,Born In Other State In The United States,Born In State of Residence",15,"45 to 54 Years",6039,"2013",217723,9748,"King County, WA","05000US53033","king-county-wa","Native Born",0.10649470835418247
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",24,"62 to 64 Years",6039,"2013",52408,4879,"King County, WA","05000US53033","king-county-wa","Native Born",0.025634290706200057
+3,"Native; Born Outside The United States,Born In State of Residence,Born In Other State In The United States",3,"5 to 17 Years",6039,"2013",277808,11602,"King County, WA","05000US53033","king-county-wa","Native Born",0.13588404504098658
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",0,"Under 5 Years",6039,"2013",122691,4974,"King County, WA","05000US53033","king-county-wa","Native Born",0.060011768452037685
+3,"Born In Other State In The United States,Born In State of Residence,Native; Born Outside The United States",9,"25 to 34 Years",6039,"2013",239335,12199,"King County, WA","05000US53033","king-county-wa","Native Born",0.11706577175561729
+3,"Foreign Born",4,"35 to 44 Years",2013,"2013",99096,4012.0000000000005,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.04847076155971609
+3,"Foreign Born",5,"45 to 54 Years",2013,"2013",72445,4015,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.035434975389457016
+3,"Foreign Born",6,"55 to 59 Years",2013,"2013",24823,2421,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.012141657727827888
+3,"Foreign Born",0,"Under 5 Years",2013,"2013",3920,1084,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.001917387031909331
+3,"Foreign Born",7,"60 & 61 Years",2013,"2013",8895,1231,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.004350805522661607
+3,"Foreign Born",1,"5 to 17 Years",2013,"2013",27357,4111,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013381111487740707
+3,"Foreign Born",8,"62 to 64 Years",2013,"2013",13874,1716.9999999999998,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.0067861805307933825
+3,"Foreign Born",2,"18 to 24 Years",2013,"2013",37042,3382,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.01811832919285343
+3,"Foreign Born",9,"65 to 74 Years",2013,"2013",28431,1754,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.013906436404136274
+3,"Foreign Born",10,"75 Years & Over",2013,"2013",20927,1799,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.010236009800195555
+3,"Foreign Born",3,"25 to 34 Years",2013,"2013",102245,5387,"King County, WA","05000US53033","king-county-wa","Foreign Born",0.050011029866726925
